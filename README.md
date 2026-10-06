@@ -146,14 +146,14 @@ The structure may include areas such as:
 ```text
 Instructions-for-Data-Science-in-Python/
 │
-├── 01-Python/
-├── 02-Data-Importing/
-├── 03-Data-Manipulation/
-├── 04-Exploratory-Data-Analysis/
-├── 05-Data-Visualization/
-├── 06-Statistics/
-├── 07-Hypothesis-Testing/
-├── 08-Machine-Learning/
+├── 01_introduction_to_python/
+├── 02_data_manipulation_with_pandas/
+├── 03_joining_data_with_pandas/
+├── 04_statistics_in_python/
+├── 05_data_visualization_in_matplotlib/
+├── 06_data_visualization_in_seaborn/
+├── 07_functions_in_python/
+├── 08_python_toolbox/
 ├── ...
 └── README.md
 ```
